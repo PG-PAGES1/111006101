@@ -1,0 +1,500 @@
+
+s_wild_atlas_symbols.png
+size: 567,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin01
+  rotate: false
+  xy: 551, 52
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+coin01_r
+  rotate: false
+  xy: 496, 57
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: true
+  xy: 353, 81
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+coin02_r
+  rotate: false
+  xy: 471, 56
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: false
+  xy: 353, 56
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+coin03_r
+  rotate: true
+  xy: 81, 68
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+coin04
+  rotate: false
+  xy: 27, 67
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+coin04_r
+  rotate: true
+  xy: 54, 67
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+coin05
+  rotate: true
+  xy: 111, 69
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+coin05_r
+  rotate: false
+  xy: 525, 58
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+fx_sparkle_egg
+  rotate: false
+  xy: 1, 64
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+s_egg
+  rotate: true
+  xy: 208, 109
+  size: 157, 174
+  orig: 161, 179
+  offset: 2, 2
+  index: -1
+s_egg_coin_b
+  rotate: false
+  xy: 326, 9
+  size: 223, 44
+  orig: 223, 44
+  offset: 0, 0
+  index: -1
+s_egg_coin_f
+  rotate: false
+  xy: 1, 8
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+txt_wild
+  rotate: true
+  xy: 384, 55
+  size: 211, 85
+  orig: 219, 96
+  offset: 4, 6
+  index: -1
+txt_wild_glow
+  rotate: false
+  xy: 208, 58
+  size: 143, 49
+  orig: 153, 64
+  offset: 6, 10
+  index: -1
+txt_wild_zh
+  rotate: true
+  xy: 471, 80
+  size: 186, 94
+  orig: 199, 96
+  offset: 11, 2
+  index: -1
+txt_wild_zh_glow
+  rotate: false
+  xy: 210, 1
+  size: 114, 55
+  orig: 114, 62
+  offset: 0, 7
+  index: -1
+ui_tile_wild
+  rotate: false
+  xy: 1, 90
+  size: 205, 176
+  orig: 205, 176
+  offset: 0, 0
+  index: -1
+
+s_wild_atlas_symbols.jpg
+size: 1015,902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_fx/ps_glow_00
+  rotate: false
+  xy: 1, 494
+  size: 161, 150
+  orig: 161, 150
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_01
+  rotate: false
+  xy: 164, 469
+  size: 164, 158
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_02
+  rotate: true
+  xy: 529, 409
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_03
+  rotate: true
+  xy: 737, 409
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_04
+  rotate: true
+  xy: 1, 265
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_05
+  rotate: true
+  xy: 209, 238
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_06
+  rotate: true
+  xy: 417, 205
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_07
+  rotate: true
+  xy: 625, 205
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_08
+  rotate: true
+  xy: 1, 61
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_09
+  rotate: true
+  xy: 209, 34
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_10
+  rotate: true
+  xy: 417, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_11
+  rotate: true
+  xy: 625, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_00
+  rotate: false
+  xy: 1, 885
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_01
+  rotate: false
+  xy: 40, 861
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_02
+  rotate: true
+  xy: 89, 840
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_03
+  rotate: true
+  xy: 163, 827
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_04
+  rotate: true
+  xy: 287, 791
+  size: 110, 139
+  orig: 110, 139
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_05
+  rotate: true
+  xy: 558, 763
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_06
+  rotate: false
+  xy: 699, 758
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_07
+  rotate: false
+  xy: 844, 758
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_08
+  rotate: false
+  xy: 1, 695
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_09
+  rotate: false
+  xy: 146, 646
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_10
+  rotate: false
+  xy: 291, 629
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_11
+  rotate: false
+  xy: 436, 618
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_12
+  rotate: false
+  xy: 581, 613
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_13
+  rotate: false
+  xy: 726, 613
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_14
+  rotate: false
+  xy: 871, 613
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_end_15
+  rotate: false
+  xy: 428, 774
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+fx_glow_egg
+  rotate: false
+  xy: 330, 442
+  size: 197, 174
+  orig: 197, 174
+  offset: 0, 0
+  index: -1
+
+s_wild_atlas_symbols2.jpg
+size: 828,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_fx/ps_glow_12
+  rotate: false
+  xy: 1, 817
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_13
+  rotate: true
+  xy: 1, 613
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_14
+  rotate: true
+  xy: 205, 821
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_15
+  rotate: false
+  xy: 209, 613
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_00
+  rotate: true
+  xy: 1, 409
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_01
+  rotate: true
+  xy: 209, 409
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_02
+  rotate: true
+  xy: 413, 821
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_03
+  rotate: true
+  xy: 413, 617
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_04
+  rotate: false
+  xy: 417, 409
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_05
+  rotate: false
+  xy: 621, 817
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_06
+  rotate: false
+  xy: 621, 609
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_07
+  rotate: false
+  xy: 621, 401
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_08
+  rotate: true
+  xy: 1, 205
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_09
+  rotate: true
+  xy: 209, 205
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_10
+  rotate: false
+  xy: 417, 201
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_11
+  rotate: true
+  xy: 621, 197
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_12
+  rotate: true
+  xy: 1, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_13
+  rotate: true
+  xy: 209, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+
+s_wild_atlas_symbols3.jpg
+size: 408,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_fx/ps_glow_idle_14
+  rotate: false
+  xy: 1, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+_fx/ps_glow_idle_15
+  rotate: false
+  xy: 205, 1
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1

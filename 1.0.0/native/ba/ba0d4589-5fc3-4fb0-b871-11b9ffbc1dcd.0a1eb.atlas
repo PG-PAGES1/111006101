@@ -1,0 +1,391 @@
+
+bbk.jpg
+size: 739,751
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bobaokuangtexiao/ib_glow_00
+  rotate: false
+  xy: 1, 635
+  size: 216, 32
+  orig: 227, 41
+  offset: 6, 5
+  index: -1
+bobaokuangtexiao/ib_glow_01
+  rotate: false
+  xy: 1, 592
+  size: 216, 41
+  orig: 227, 41
+  offset: 6, 0
+  index: -1
+bobaokuangtexiao/ib_glow_02
+  rotate: false
+  xy: 1, 549
+  size: 216, 41
+  orig: 227, 41
+  offset: 6, 0
+  index: -1
+bobaokuangtexiao/ib_glow_03
+  rotate: false
+  xy: 1, 464
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_04
+  rotate: false
+  xy: 230, 464
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_05
+  rotate: false
+  xy: 459, 450
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_06
+  rotate: false
+  xy: 1, 421
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_07
+  rotate: false
+  xy: 230, 421
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_08
+  rotate: false
+  xy: 459, 407
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_09
+  rotate: false
+  xy: 1, 378
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_10
+  rotate: false
+  xy: 230, 378
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_11
+  rotate: false
+  xy: 459, 364
+  size: 227, 41
+  orig: 227, 41
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_12
+  rotate: false
+  xy: 1, 331
+  size: 230, 45
+  orig: 230, 45
+  offset: 0, 0
+  index: -1
+bobaokuangtexiao/ib_glow_13
+  rotate: false
+  xy: 233, 317
+  size: 230, 45
+  orig: 230, 45
+  offset: 0, 0
+  index: -1
+dajiangbeijinbobaokuangtexiao/ib_pattern_glow
+  rotate: false
+  xy: 219, 548
+  size: 300, 37
+  orig: 300, 37
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_00
+  rotate: false
+  xy: 1, 747
+  size: 3, 3
+  orig: 103, 105
+  offset: 0, 102
+  index: -1
+huoyantexiao/bg_md_fire_01
+  rotate: true
+  xy: 651, 726
+  size: 24, 58
+  orig: 103, 105
+  offset: 79, 0
+  index: -1
+huoyantexiao/bg_md_fire_02
+  rotate: true
+  xy: 526, 165
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_03
+  rotate: true
+  xy: 633, 165
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_04
+  rotate: false
+  xy: 106, 124
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_05
+  rotate: false
+  xy: 211, 110
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_06
+  rotate: false
+  xy: 316, 108
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_07
+  rotate: true
+  xy: 421, 60
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_08
+  rotate: true
+  xy: 528, 60
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_09
+  rotate: false
+  xy: 635, 58
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_10
+  rotate: false
+  xy: 1, 22
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_11
+  rotate: false
+  xy: 106, 17
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_12
+  rotate: false
+  xy: 211, 3
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_13
+  rotate: false
+  xy: 316, 1
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+huoyantexiao/bg_md_fire_14
+  rotate: false
+  xy: 316, 215
+  size: 103, 100
+  orig: 103, 105
+  offset: 0, 5
+  index: -1
+huoyantexiao/bg_md_fire_15
+  rotate: false
+  xy: 106, 231
+  size: 103, 98
+  orig: 103, 105
+  offset: 0, 7
+  index: -1
+huoyantexiao/bg_md_fire_16
+  rotate: false
+  xy: 626, 493
+  size: 103, 92
+  orig: 103, 105
+  offset: 0, 13
+  index: -1
+huoyantexiao/bg_md_fire_17
+  rotate: false
+  xy: 521, 494
+  size: 103, 91
+  orig: 103, 105
+  offset: 0, 14
+  index: -1
+huoyantexiao/bg_md_fire_18
+  rotate: false
+  xy: 465, 270
+  size: 103, 92
+  orig: 103, 105
+  offset: 0, 13
+  index: -1
+huoyantexiao/bg_md_fire_19
+  rotate: false
+  xy: 570, 270
+  size: 103, 92
+  orig: 103, 105
+  offset: 0, 13
+  index: -1
+huoyantexiao/bg_md_fire_20
+  rotate: false
+  xy: 211, 217
+  size: 103, 98
+  orig: 103, 105
+  offset: 0, 7
+  index: -1
+huoyantexiao/bg_md_fire_21
+  rotate: false
+  xy: 1, 234
+  size: 103, 95
+  orig: 103, 105
+  offset: 0, 10
+  index: -1
+huoyantexiao/bg_md_fire_22
+  rotate: false
+  xy: 1, 129
+  size: 103, 103
+  orig: 103, 105
+  offset: 0, 2
+  index: -1
+huoyantexiao/bg_md_fire_23
+  rotate: false
+  xy: 421, 166
+  size: 103, 102
+  orig: 103, 105
+  offset: 0, 3
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_00
+  rotate: false
+  xy: 6, 747
+  size: 3, 3
+  orig: 271, 40
+  offset: 0, 37
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_01
+  rotate: false
+  xy: 11, 732
+  size: 218, 18
+  orig: 270, 39
+  offset: 32, 21
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_02
+  rotate: false
+  xy: 231, 727
+  size: 210, 23
+  orig: 270, 39
+  offset: 36, 16
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_03
+  rotate: false
+  xy: 443, 727
+  size: 206, 23
+  orig: 270, 39
+  offset: 38, 16
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_04
+  rotate: false
+  xy: 517, 693
+  size: 175, 31
+  orig: 270, 39
+  offset: 53, 8
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_05
+  rotate: false
+  xy: 245, 662
+  size: 169, 31
+  orig: 270, 39
+  offset: 56, 8
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_06
+  rotate: false
+  xy: 219, 624
+  size: 217, 34
+  orig: 270, 39
+  offset: 29, 5
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_07
+  rotate: false
+  xy: 219, 587
+  size: 236, 35
+  orig: 270, 39
+  offset: 19, 4
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_08
+  rotate: false
+  xy: 1, 507
+  size: 252, 39
+  orig: 270, 39
+  offset: 11, 0
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_09
+  rotate: false
+  xy: 255, 507
+  size: 260, 39
+  orig: 270, 39
+  offset: 7, 0
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_10
+  rotate: false
+  xy: 416, 660
+  size: 268, 31
+  orig: 270, 39
+  offset: 2, 8
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_11
+  rotate: false
+  xy: 245, 695
+  size: 270, 30
+  orig: 270, 39
+  offset: 0, 9
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_12
+  rotate: false
+  xy: 438, 624
+  size: 270, 34
+  orig: 270, 39
+  offset: 0, 5
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_13
+  rotate: false
+  xy: 457, 587
+  size: 270, 35
+  orig: 270, 39
+  offset: 0, 4
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_14
+  rotate: false
+  xy: 1, 669
+  size: 242, 30
+  orig: 270, 39
+  offset: 16, 9
+  index: -1
+zhongjiangtuanbiankuangtexiao/ib_fire_15
+  rotate: false
+  xy: 1, 701
+  size: 242, 24
+  orig: 270, 39
+  offset: 16, 15
+  index: -1

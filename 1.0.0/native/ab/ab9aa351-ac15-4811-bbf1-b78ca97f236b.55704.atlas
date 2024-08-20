@@ -1,0 +1,405 @@
+
+long.png
+size: 1007,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom/f_wd_spawn_00
+  rotate: false
+  xy: 927, 286
+  size: 79, 76
+  orig: 112, 105
+  offset: 21, 18
+  index: -1
+boom/f_wd_spawn_01
+  rotate: false
+  xy: 524, 136
+  size: 80, 99
+  orig: 112, 105
+  offset: 19, 0
+  index: -1
+boom/f_wd_spawn_02
+  rotate: false
+  xy: 430, 23
+  size: 94, 105
+  orig: 112, 105
+  offset: 7, 0
+  index: -1
+boom/f_wd_spawn_03
+  rotate: false
+  xy: 422, 130
+  size: 100, 105
+  orig: 112, 105
+  offset: 8, 0
+  index: -1
+boom/f_wd_spawn_04
+  rotate: true
+  xy: 315, 117
+  size: 111, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+boom/f_wd_spawn_05
+  rotate: true
+  xy: 323, 4
+  size: 111, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+boom/f_wd_spawn_06
+  rotate: false
+  xy: 606, 148
+  size: 85, 85
+  orig: 112, 105
+  offset: 17, 10
+  index: -1
+boom/f_wd_spawn_07
+  rotate: false
+  xy: 606, 61
+  size: 84, 85
+  orig: 112, 105
+  offset: 18, 10
+  index: -1
+boom/f_wd_spawn_08
+  rotate: false
+  xy: 693, 149
+  size: 61, 84
+  orig: 112, 105
+  offset: 26, 11
+  index: -1
+f_select_blue
+  rotate: false
+  xy: 479, 317
+  size: 134, 125
+  orig: 134, 125
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_00
+  rotate: true
+  xy: 728, 1
+  size: 70, 34
+  orig: 74, 34
+  offset: 4, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_01
+  rotate: true
+  xy: 692, 1
+  size: 69, 34
+  orig: 74, 34
+  offset: 5, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_02
+  rotate: false
+  xy: 764, 3
+  size: 71, 34
+  orig: 74, 34
+  offset: 3, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_03
+  rotate: false
+  xy: 837, 17
+  size: 71, 34
+  orig: 74, 34
+  offset: 3, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_04
+  rotate: false
+  xy: 892, 216
+  size: 73, 34
+  orig: 74, 34
+  offset: 1, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_05
+  rotate: false
+  xy: 606, 25
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_06
+  rotate: true
+  xy: 692, 72
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_07
+  rotate: true
+  xy: 728, 73
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_08
+  rotate: false
+  xy: 775, 258
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_09
+  rotate: false
+  xy: 851, 258
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_10
+  rotate: false
+  xy: 526, 1
+  size: 73, 33
+  orig: 74, 34
+  offset: 1, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_11
+  rotate: false
+  xy: 927, 252
+  size: 74, 32
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_12
+  rotate: true
+  xy: 893, 141
+  size: 73, 34
+  orig: 74, 34
+  offset: 1, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_13
+  rotate: true
+  xy: 929, 142
+  size: 72, 34
+  orig: 74, 34
+  offset: 2, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_14
+  rotate: false
+  xy: 756, 161
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_15
+  rotate: true
+  xy: 832, 53
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_16
+  rotate: true
+  xy: 868, 53
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_17
+  rotate: true
+  xy: 904, 67
+  size: 72, 34
+  orig: 74, 34
+  offset: 2, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_18
+  rotate: true
+  xy: 940, 69
+  size: 71, 34
+  orig: 74, 34
+  offset: 3, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_19
+  rotate: true
+  xy: 965, 143
+  size: 71, 34
+  orig: 74, 34
+  offset: 3, 0
+  index: -1
+huolongmoshitexiao/f_fd_fireball_20
+  rotate: false
+  xy: 910, 31
+  size: 71, 34
+  orig: 74, 34
+  offset: 3, 0
+  index: -1
+s_wild_en
+  rotate: false
+  xy: 241, 3
+  size: 80, 70
+  orig: 84, 84
+  offset: 2, 6
+  index: -1
+shui/f_wd_select_loop_00
+  rotate: false
+  xy: 756, 197
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shui/f_wd_select_loop_01
+  rotate: false
+  xy: 824, 197
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shui/f_wd_select_loop_02
+  rotate: false
+  xy: 764, 100
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shui/f_wd_select_loop_03
+  rotate: false
+  xy: 764, 39
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shui/f_wd_select_loop_04
+  rotate: true
+  xy: 832, 129
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shuilongmoshitexiao/f_wd_water_00
+  rotate: true
+  xy: 965, 368
+  size: 74, 40
+  orig: 78, 222
+  offset: 0, 182
+  index: -1
+shuilongmoshitexiao/f_wd_water_01
+  rotate: false
+  xy: 526, 36
+  size: 78, 98
+  orig: 78, 222
+  offset: 0, 124
+  index: -1
+shuilongmoshitexiao/f_wd_water_02
+  rotate: true
+  xy: 479, 237
+  size: 78, 138
+  orig: 78, 222
+  offset: 0, 84
+  index: -1
+shuilongmoshitexiao/f_wd_water_03
+  rotate: true
+  xy: 798, 364
+  size: 78, 165
+  orig: 78, 222
+  offset: 0, 57
+  index: -1
+shuilongmoshitexiao/f_wd_water_04
+  rotate: true
+  xy: 615, 364
+  size: 78, 181
+  orig: 78, 222
+  offset: 0, 41
+  index: -1
+shuilongmoshitexiao/f_wd_water_05
+  rotate: false
+  xy: 399, 245
+  size: 78, 197
+  orig: 78, 222
+  offset: 0, 25
+  index: -1
+shuilongmoshitexiao/f_wd_water_06
+  rotate: false
+  xy: 319, 237
+  size: 78, 205
+  orig: 78, 222
+  offset: 0, 17
+  index: -1
+shuilongmoshitexiao/f_wd_water_07
+  rotate: false
+  xy: 81, 224
+  size: 78, 218
+  orig: 78, 222
+  offset: 0, 4
+  index: -1
+shuilongmoshitexiao/f_wd_water_08
+  rotate: false
+  xy: 1, 223
+  size: 78, 219
+  orig: 78, 222
+  offset: 0, 3
+  index: -1
+shuilongmoshitexiao/f_wd_water_09
+  rotate: false
+  xy: 1, 2
+  size: 78, 219
+  orig: 78, 222
+  offset: 0, 3
+  index: -1
+shuilongmoshitexiao/f_wd_water_10
+  rotate: false
+  xy: 81, 4
+  size: 78, 218
+  orig: 78, 222
+  offset: 0, 4
+  index: -1
+shuilongmoshitexiao/f_wd_water_11
+  rotate: false
+  xy: 161, 224
+  size: 78, 218
+  orig: 78, 222
+  offset: 0, 4
+  index: -1
+shuilongmoshitexiao/f_wd_water_12
+  rotate: false
+  xy: 161, 6
+  size: 78, 216
+  orig: 78, 222
+  offset: 0, 6
+  index: -1
+shuilongmoshitexiao/f_wd_water_13
+  rotate: false
+  xy: 241, 230
+  size: 76, 212
+  orig: 78, 222
+  offset: 1, 10
+  index: -1
+shuilongmoshitexiao/f_wd_water_14
+  rotate: false
+  xy: 241, 75
+  size: 72, 153
+  orig: 78, 222
+  offset: 3, 49
+  index: -1
+shuilongmoshitexiao/f_wd_water_15
+  rotate: true
+  xy: 619, 293
+  size: 69, 154
+  orig: 78, 222
+  offset: 4, 50
+  index: -1
+shuilongmoshitexiao/f_wd_water_16
+  rotate: true
+  xy: 775, 294
+  size: 68, 150
+  orig: 78, 222
+  offset: 4, 54
+  index: -1
+shuilongmoshitexiao/f_wd_water_17
+  rotate: true
+  xy: 619, 235
+  size: 56, 129
+  orig: 78, 222
+  offset: 10, 59
+  index: -1
+shuilongmoshitexiao/f_wd_water_18
+  rotate: false
+  xy: 967, 225
+  size: 26, 25
+  orig: 78, 222
+  offset: 28, 69
+  index: -1
+shuilongmoshitexiao/f_wd_water_19
+  rotate: false
+  xy: 430, 1
+  size: 16, 20
+  orig: 78, 222
+  offset: 31, 75
+  index: -1

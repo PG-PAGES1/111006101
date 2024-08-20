@@ -1,0 +1,27 @@
+
+h_top_l.jpg
+size: 816,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_ed_glow
+  rotate: false
+  xy: 1, 1
+  size: 270, 110
+  orig: 270, 110
+  offset: 0, 0
+  index: -1
+f_fd_glow
+  rotate: false
+  xy: 273, 1
+  size: 270, 110
+  orig: 270, 110
+  offset: 0, 0
+  index: -1
+f_wd_glow
+  rotate: false
+  xy: 545, 1
+  size: 270, 110
+  orig: 270, 110
+  offset: 0, 0
+  index: -1
